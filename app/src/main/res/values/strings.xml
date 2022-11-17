@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">eMovie</string>
+    <string name="themoviedb_api_key">175a7356eb593bbb3031e5bdd8f99903</string>
+    <string name="themoviedb_base_api_url">https://api.themoviedb.org/3/movie/</string>
+    <string name="themoviedb_base_images_url">https://image.tmdb.org/t/p/w500</string>
+    <string name="es_language_iso">es-CO</string>
+    <string name="upcoming_category_title">Próximos estrenos</string>
+    <string name="toprated_category_title">Tendencia</string>
+    <string name="recommended_category_title">Recomendados para ti</string>
+    <string name="watch_trailer">Ver Trailer</string>
+    <string name="youtube_url">https://www.youtube.com/watch?v=</string>
+    <string name="empty_state_label">No ha sido posible cargar los datos, por favor intente mas tarde</string>
+    <string name="retry_label">Intentar de nuevo</string>
+
+</resources>
